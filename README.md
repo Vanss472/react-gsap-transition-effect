@@ -1,8 +1,6 @@
-# React Starter
+# React
 
 ## Overview
-
-A simple starter to get up and developing quickly with React
 
 | STACK                 |
 | --------------------- |
