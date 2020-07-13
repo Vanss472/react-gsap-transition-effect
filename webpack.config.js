@@ -19,7 +19,6 @@ module.exports = {
   output: {
     path: paths.DIST,
     filename: 'js/app.bundle.js',
-    publicPath: '/',
   },
   optimization: {
     minimizer: [new UglifyJsPlugin({
@@ -48,7 +47,7 @@ module.exports = {
     new CopyWebpackPlugin([
       {
         from: path.join(paths.JS, 'assets'),
-        to: path.join(paths.DIST, 'images'),
+        to: path.join(paths.DIST, 'assets'),
       },
     ]),
   ],
@@ -88,8 +87,9 @@ module.exports = {
           {
             loader: 'file-loader',
             options: {
-              name: '[path][name].[ext]',
+              name: '[name].[ext]',
               emitFile: false,
+              publicPath: 'assets',
             },
           },
         ],
