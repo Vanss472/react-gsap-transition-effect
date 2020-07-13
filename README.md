@@ -6,6 +6,9 @@
 
 The code is free to use. Let me know if you have any question and share your final work with me if you like.
 
+You can preview the site here:
+[https://5f0cae47d5b6218a610851e1--admiring-wescoff-b4bcec.netlify.app/](https://5f0cae47d5b6218a610851e1--admiring-wescoff-b4bcec.netlify.app/)
+
 | STACK                 |
 | --------------------- |
 | React                 |
