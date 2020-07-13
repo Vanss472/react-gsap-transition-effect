@@ -1,6 +1,10 @@
-# React
+# React GSAP Transition Effect
+
+<a href="https://www.buymeacoffee.com/vanss472" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a>
 
 ## Overview
+
+The code is free to use. Let me know if you have any question and share your final work with me if you like.
 
 | STACK                 |
 | --------------------- |
